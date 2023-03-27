@@ -2,6 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using System.Security.Cryptography;
+using System.Text;
+
 
 namespace Hotsite.Models
 {

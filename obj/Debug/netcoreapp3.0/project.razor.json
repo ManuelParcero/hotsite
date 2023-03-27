@@ -32,8 +32,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manuel/Área de Trabalho/Temporario/1. Tecnico em informatica para a internet/2. Modulo 2/3. Publicar e testar aplicações web /Material complementar/Hotsite/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "/home/manuel/Área de Trabalho/Temporario/1. Tecnico em informatica para a internet/2. Modulo 2/3. Publicar e testar aplicações web /Material complementar/Hotsite/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -42,8 +42,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manuel/Área de Trabalho/Temporario/1. Tecnico em informatica para a internet/2. Modulo 2/3. Publicar e testar aplicações web /Material complementar/Hotsite/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "/home/manuel/Área de Trabalho/Temporario/1. Tecnico em informatica para a internet/2. Modulo 2/3. Publicar e testar aplicações web /Material complementar/Hotsite/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
