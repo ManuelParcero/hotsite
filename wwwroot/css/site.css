@@ -111,3 +111,7 @@ p     { display: table-row;  }
 label { display: table-cell; }
 input { display: table-cell; }
 
+
+.msg-css-error{
+  color: rgb(255, 0, 0);
+}

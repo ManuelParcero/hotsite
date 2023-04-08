@@ -47,14 +47,16 @@
                 <h2>Entre em contato!:</h2>
                 <p>Nos mande uma mensagem e fique por dentro de nossos eventos</p>
 
-                <form action="/Home/Cadastrar" method="POST">
+                <form action="/Home/Cadastrar" name="formulario" onsubmit="return validarFormulario()" method="post">
                     <div>
                         <label asp-for="Nome">Nome:</label>
-                        <input asp-for="Nome" />
+                        <input asp-for="Nome" type="text" name="fname"/>
+                         
                     </div>
                     <div>
                         <label asp-for="Email">Email:</label>
-                        <input asp-for="Email" />
+                        <input asp-for="Email" type="text" name="femail"/>
+                        
                     </div>
                     <div>
                         <label asp-for="Mensagem">Mensagem (opcional):</label>
